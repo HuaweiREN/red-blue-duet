@@ -39,7 +39,7 @@ Instead of asking Claude for a quick opinion (which tends toward shallow consens
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/YOUR_USERNAME/red-blue-duet.git ~/.claude/skills/red-blue-duet
+git clone https://github.com/HuaweiREN/red-blue-duet.git ~/.claude/skills/red-blue-duet
 ```
 
 Then restart Claude Code, or run `/install red-blue-duet` in the Claude Code REPL.
